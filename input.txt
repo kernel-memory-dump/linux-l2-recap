@@ -1,0 +1,6 @@
+1. linija
+2. linija
+Treca
+Cetvrta
+Problemi sa word-splitting */log mozda ./" 
+# kraj fajla prazan red
